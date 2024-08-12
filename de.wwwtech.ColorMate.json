@@ -22,8 +22,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/ckruse/ColorMate/releases/download/0.1.4/colormate-0.1.4.tar.xz",
-          "sha256": "0f2b01cce036b6a13dc734f2ed6825543f4d82fcf6a72e5d96d45e27914baa8f"
+          "url": "https://github.com/ckruse/ColorMate/archive/refs/tags/1.0.0.tar.gz",
+          "sha256": "0cae31a2dc817cea2a63042ae21b33c3c1059b4c97514497a28c0eab55222921"
         }
       ]
     }
